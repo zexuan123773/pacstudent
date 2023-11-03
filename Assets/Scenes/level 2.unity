@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 21602686}
   m_Layer: 0
   m_Name: Pacdot (631)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -294,7 +294,7 @@ GameObject:
   - component: {fileID: 28935787}
   m_Layer: 0
   m_Name: Pacdot (577)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -450,7 +450,7 @@ GameObject:
   - component: {fileID: 43547876}
   m_Layer: 0
   m_Name: Pacdot (491)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -606,7 +606,7 @@ GameObject:
   - component: {fileID: 45353854}
   m_Layer: 0
   m_Name: Pacdot (411)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -762,7 +762,7 @@ GameObject:
   - component: {fileID: 46783582}
   m_Layer: 0
   m_Name: Pacdot (485)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -918,7 +918,7 @@ GameObject:
   - component: {fileID: 48641058}
   m_Layer: 0
   m_Name: Pacdot (80)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1074,7 +1074,7 @@ GameObject:
   - component: {fileID: 48674062}
   m_Layer: 0
   m_Name: Pacdot (731)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1230,7 +1230,7 @@ GameObject:
   - component: {fileID: 53575381}
   m_Layer: 0
   m_Name: Pacdot (707)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1386,7 +1386,7 @@ GameObject:
   - component: {fileID: 63356357}
   m_Layer: 0
   m_Name: Pacdot (570)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1542,7 +1542,7 @@ GameObject:
   - component: {fileID: 67744959}
   m_Layer: 0
   m_Name: Pacdot (751)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1698,7 +1698,7 @@ GameObject:
   - component: {fileID: 72747585}
   m_Layer: 0
   m_Name: Pacdot (283)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1854,7 +1854,7 @@ GameObject:
   - component: {fileID: 79738139}
   m_Layer: 0
   m_Name: Pacdot (628)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2010,7 +2010,7 @@ GameObject:
   - component: {fileID: 92604602}
   m_Layer: 0
   m_Name: Pacdot (89)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2166,7 +2166,7 @@ GameObject:
   - component: {fileID: 97990565}
   m_Layer: 0
   m_Name: Pacdot (23)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2322,7 +2322,7 @@ GameObject:
   - component: {fileID: 99791950}
   m_Layer: 0
   m_Name: Pacdot (676)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2478,7 +2478,7 @@ GameObject:
   - component: {fileID: 104951763}
   m_Layer: 0
   m_Name: Pacdot (246)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2634,7 +2634,7 @@ GameObject:
   - component: {fileID: 110830193}
   m_Layer: 0
   m_Name: Pacdot (88)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2790,7 +2790,7 @@ GameObject:
   - component: {fileID: 112112774}
   m_Layer: 0
   m_Name: Pacdot (92)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2946,7 +2946,7 @@ GameObject:
   - component: {fileID: 123493996}
   m_Layer: 0
   m_Name: Pacdot (234)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3102,7 +3102,7 @@ GameObject:
   - component: {fileID: 134326320}
   m_Layer: 0
   m_Name: Pacdot (171)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3258,7 +3258,7 @@ GameObject:
   - component: {fileID: 141983327}
   m_Layer: 0
   m_Name: Pacdot (11)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3414,7 +3414,7 @@ GameObject:
   - component: {fileID: 142496873}
   m_Layer: 0
   m_Name: Pacdot (135)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3570,7 +3570,7 @@ GameObject:
   - component: {fileID: 152812708}
   m_Layer: 0
   m_Name: Pacdot (640)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3726,7 +3726,7 @@ GameObject:
   - component: {fileID: 158696232}
   m_Layer: 0
   m_Name: Pacdot (312)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3882,7 +3882,7 @@ GameObject:
   - component: {fileID: 160477106}
   m_Layer: 0
   m_Name: Pacdot (24)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4038,7 +4038,7 @@ GameObject:
   - component: {fileID: 160873126}
   m_Layer: 0
   m_Name: Pacdot (238)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4194,7 +4194,7 @@ GameObject:
   - component: {fileID: 161957296}
   m_Layer: 0
   m_Name: Pacdot (597)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4350,7 +4350,7 @@ GameObject:
   - component: {fileID: 162486752}
   m_Layer: 0
   m_Name: Pacdot (167)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4506,7 +4506,7 @@ GameObject:
   - component: {fileID: 165030930}
   m_Layer: 0
   m_Name: Pacdot (641)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4662,7 +4662,7 @@ GameObject:
   - component: {fileID: 174481283}
   m_Layer: 0
   m_Name: Pacdot (219)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4818,7 +4818,7 @@ GameObject:
   - component: {fileID: 174531483}
   m_Layer: 0
   m_Name: Pacdot (630)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4984,7 +4984,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 198417100}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -250.12, y: -239.5, z: 0}
+  m_LocalPosition: {x: -240, y: -240, z: 0}
   m_LocalScale: {x: 6, y: 6, z: 66}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5032,7 +5032,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 29df9b0e9f7fe3448bf92096b0714a3b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1a9586dd1fcfbaf4dbffe90713b95fdf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5058,7 +5058,7 @@ GameObject:
   - component: {fileID: 204400680}
   m_Layer: 0
   m_Name: Pacdot (727)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5214,7 +5214,7 @@ GameObject:
   - component: {fileID: 209023417}
   m_Layer: 0
   m_Name: Pacdot (632)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5370,7 +5370,7 @@ GameObject:
   - component: {fileID: 212374155}
   m_Layer: 0
   m_Name: Pacdot (372)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5526,7 +5526,7 @@ GameObject:
   - component: {fileID: 223045521}
   m_Layer: 0
   m_Name: Pacdot (309)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5682,7 +5682,7 @@ GameObject:
   - component: {fileID: 233056820}
   m_Layer: 0
   m_Name: Pacdot (343)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5838,7 +5838,7 @@ GameObject:
   - component: {fileID: 259851361}
   m_Layer: 0
   m_Name: Pacdot (701)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5994,7 +5994,7 @@ GameObject:
   - component: {fileID: 270320915}
   m_Layer: 0
   m_Name: Pacdot (479)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6150,7 +6150,7 @@ GameObject:
   - component: {fileID: 273819803}
   m_Layer: 0
   m_Name: Pacdot (72)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6306,7 +6306,7 @@ GameObject:
   - component: {fileID: 281160691}
   m_Layer: 0
   m_Name: Pacdot (19)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6462,7 +6462,7 @@ GameObject:
   - component: {fileID: 281677240}
   m_Layer: 0
   m_Name: Pacdot (462)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6618,7 +6618,7 @@ GameObject:
   - component: {fileID: 282667208}
   m_Layer: 0
   m_Name: Pacdot (332)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6774,7 +6774,7 @@ GameObject:
   - component: {fileID: 283584109}
   m_Layer: 0
   m_Name: Pacdot (476)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6930,7 +6930,7 @@ GameObject:
   - component: {fileID: 294153321}
   m_Layer: 0
   m_Name: Pacdot (646)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7086,7 +7086,7 @@ GameObject:
   - component: {fileID: 299523286}
   m_Layer: 0
   m_Name: Pacdot (543)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7242,7 +7242,7 @@ GameObject:
   - component: {fileID: 301271336}
   m_Layer: 0
   m_Name: Pacdot (196)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7398,7 +7398,7 @@ GameObject:
   - component: {fileID: 313740300}
   m_Layer: 0
   m_Name: Pacdot (51)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7554,7 +7554,7 @@ GameObject:
   - component: {fileID: 347643960}
   m_Layer: 0
   m_Name: Pacdot (369)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7710,7 +7710,7 @@ GameObject:
   - component: {fileID: 360579364}
   m_Layer: 0
   m_Name: Pacdot (645)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7866,7 +7866,7 @@ GameObject:
   - component: {fileID: 361192054}
   m_Layer: 0
   m_Name: Pacdot (394)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8210,7 +8210,7 @@ GameObject:
   - component: {fileID: 363623858}
   m_Layer: 0
   m_Name: Pacdot (240)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8366,7 +8366,7 @@ GameObject:
   - component: {fileID: 367061622}
   m_Layer: 0
   m_Name: Pacdot (492)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8522,7 +8522,7 @@ GameObject:
   - component: {fileID: 377126960}
   m_Layer: 0
   m_Name: Pacdot (638)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8678,7 +8678,7 @@ GameObject:
   - component: {fileID: 384191274}
   m_Layer: 0
   m_Name: Pacdot (414)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8834,7 +8834,7 @@ GameObject:
   - component: {fileID: 402900768}
   m_Layer: 0
   m_Name: Pacdot (442)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8990,7 +8990,7 @@ GameObject:
   - component: {fileID: 418355839}
   m_Layer: 0
   m_Name: Pacdot (7)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9146,7 +9146,7 @@ GameObject:
   - component: {fileID: 419682504}
   m_Layer: 0
   m_Name: Pacdot (280)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9302,7 +9302,7 @@ GameObject:
   - component: {fileID: 422129561}
   m_Layer: 0
   m_Name: Pacdot (337)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9458,7 +9458,7 @@ GameObject:
   - component: {fileID: 425767427}
   m_Layer: 0
   m_Name: Pacdot (323)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9614,7 +9614,7 @@ GameObject:
   - component: {fileID: 426313392}
   m_Layer: 0
   m_Name: Pacdot (623)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9770,7 +9770,7 @@ GameObject:
   - component: {fileID: 427167167}
   m_Layer: 0
   m_Name: Pacdot (124)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9926,7 +9926,7 @@ GameObject:
   - component: {fileID: 428677040}
   m_Layer: 0
   m_Name: Pacdot (470)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10082,7 +10082,7 @@ GameObject:
   - component: {fileID: 429306355}
   m_Layer: 0
   m_Name: Pacdot (325)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10238,7 +10238,7 @@ GameObject:
   - component: {fileID: 433886236}
   m_Layer: 0
   m_Name: Pacdot (336)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10394,7 +10394,7 @@ GameObject:
   - component: {fileID: 434225953}
   m_Layer: 0
   m_Name: Pacdot (14)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10550,7 +10550,7 @@ GameObject:
   - component: {fileID: 442652500}
   m_Layer: 0
   m_Name: Pacdot (546)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10706,7 +10706,7 @@ GameObject:
   - component: {fileID: 445083569}
   m_Layer: 0
   m_Name: Pacdot (163)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10862,7 +10862,7 @@ GameObject:
   - component: {fileID: 458383918}
   m_Layer: 0
   m_Name: Pacdot (508)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11018,7 +11018,7 @@ GameObject:
   - component: {fileID: 464489288}
   m_Layer: 0
   m_Name: Pacdot (322)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11174,7 +11174,7 @@ GameObject:
   - component: {fileID: 469016229}
   m_Layer: 0
   m_Name: Pacdot (606)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11330,7 +11330,7 @@ GameObject:
   - component: {fileID: 473047976}
   m_Layer: 0
   m_Name: Pacdot (748)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11486,7 +11486,7 @@ GameObject:
   - component: {fileID: 486588748}
   m_Layer: 0
   m_Name: Pacdot (127)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11642,7 +11642,7 @@ GameObject:
   - component: {fileID: 509511409}
   m_Layer: 0
   m_Name: Pacdot (568)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11890,7 +11890,7 @@ GameObject:
   - component: {fileID: 519670092}
   m_Layer: 0
   m_Name: Pacdot (563)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12046,7 +12046,7 @@ GameObject:
   - component: {fileID: 524035419}
   m_Layer: 0
   m_Name: Pacdot (390)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12202,7 +12202,7 @@ GameObject:
   - component: {fileID: 524771278}
   m_Layer: 0
   m_Name: Pacdot (338)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12358,7 +12358,7 @@ GameObject:
   - component: {fileID: 530103655}
   m_Layer: 0
   m_Name: Pacdot (10)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12514,7 +12514,7 @@ GameObject:
   - component: {fileID: 530561891}
   m_Layer: 0
   m_Name: Pacdot (236)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12670,7 +12670,7 @@ GameObject:
   - component: {fileID: 544558496}
   m_Layer: 0
   m_Name: Pacdot (21)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12826,7 +12826,7 @@ GameObject:
   - component: {fileID: 546587886}
   m_Layer: 0
   m_Name: Pacdot (681)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12982,7 +12982,7 @@ GameObject:
   - component: {fileID: 556973117}
   m_Layer: 0
   m_Name: Pacdot (328)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13138,7 +13138,7 @@ GameObject:
   - component: {fileID: 564099520}
   m_Layer: 0
   m_Name: Pacdot (752)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13294,7 +13294,7 @@ GameObject:
   - component: {fileID: 577070144}
   m_Layer: 0
   m_Name: Pacdot (3)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13450,7 +13450,7 @@ GameObject:
   - component: {fileID: 582754583}
   m_Layer: 0
   m_Name: Pacdot (505)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13606,7 +13606,7 @@ GameObject:
   - component: {fileID: 584658252}
   m_Layer: 0
   m_Name: Pacdot (247)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13762,7 +13762,7 @@ GameObject:
   - component: {fileID: 586284518}
   m_Layer: 0
   m_Name: Pacdot (412)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13918,7 +13918,7 @@ GameObject:
   - component: {fileID: 589271068}
   m_Layer: 0
   m_Name: Pacdot (629)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14074,7 +14074,7 @@ GameObject:
   - component: {fileID: 592489712}
   m_Layer: 0
   m_Name: Pacdot (8)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14230,7 +14230,7 @@ GameObject:
   - component: {fileID: 598195773}
   m_Layer: 0
   m_Name: Pacdot (77)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14386,7 +14386,7 @@ GameObject:
   - component: {fileID: 614076176}
   m_Layer: 0
   m_Name: Pacdot (482)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14542,7 +14542,7 @@ GameObject:
   - component: {fileID: 616828876}
   m_Layer: 0
   m_Name: Pacdot (317)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14698,7 +14698,7 @@ GameObject:
   - component: {fileID: 617004989}
   m_Layer: 0
   m_Name: Pacdot (625)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14854,7 +14854,7 @@ GameObject:
   - component: {fileID: 618215799}
   m_Layer: 0
   m_Name: Pacdot (172)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15010,7 +15010,7 @@ GameObject:
   - component: {fileID: 632278591}
   m_Layer: 0
   m_Name: Pacdot (624)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15166,7 +15166,7 @@ GameObject:
   - component: {fileID: 640667509}
   m_Layer: 0
   m_Name: Pacdot (410)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15322,7 +15322,7 @@ GameObject:
   - component: {fileID: 641811744}
   m_Layer: 0
   m_Name: Pacdot (753)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15478,7 +15478,7 @@ GameObject:
   - component: {fileID: 650065550}
   m_Layer: 0
   m_Name: Pacdot (531)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15634,7 +15634,7 @@ GameObject:
   - component: {fileID: 659179805}
   m_Layer: 0
   m_Name: Pacdot (480)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15790,7 +15790,7 @@ GameObject:
   - component: {fileID: 660364565}
   m_Layer: 0
   m_Name: Pacdot (392)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16025,6 +16025,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 198417101}
+  - {fileID: 1831700523}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16048,7 +16049,7 @@ GameObject:
   - component: {fileID: 666344617}
   m_Layer: 0
   m_Name: Pacdot (517)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16204,7 +16205,7 @@ GameObject:
   - component: {fileID: 682190420}
   m_Layer: 0
   m_Name: Pacdot (459)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16360,7 +16361,7 @@ GameObject:
   - component: {fileID: 691399616}
   m_Layer: 0
   m_Name: Pacdot (355)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16516,7 +16517,7 @@ GameObject:
   - component: {fileID: 697795966}
   m_Layer: 0
   m_Name: Pacdot (540)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16672,7 +16673,7 @@ GameObject:
   - component: {fileID: 719345287}
   m_Layer: 0
   m_Name: Pacdot (98)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16828,7 +16829,7 @@ GameObject:
   - component: {fileID: 721384288}
   m_Layer: 0
   m_Name: Pacdot (735)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16984,7 +16985,7 @@ GameObject:
   - component: {fileID: 722356900}
   m_Layer: 0
   m_Name: Pacdot (233)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17140,7 +17141,7 @@ GameObject:
   - component: {fileID: 727445662}
   m_Layer: 0
   m_Name: Pacdot (101)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17296,7 +17297,7 @@ GameObject:
   - component: {fileID: 747924455}
   m_Layer: 0
   m_Name: Pacdot (20)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17452,7 +17453,7 @@ GameObject:
   - component: {fileID: 759381201}
   m_Layer: 0
   m_Name: Pacdot (327)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17608,7 +17609,7 @@ GameObject:
   - component: {fileID: 770799090}
   m_Layer: 0
   m_Name: Pacdot (324)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17764,7 +17765,7 @@ GameObject:
   - component: {fileID: 777387636}
   m_Layer: 0
   m_Name: Pacdot (252)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17920,7 +17921,7 @@ GameObject:
   - component: {fileID: 785562521}
   m_Layer: 0
   m_Name: Pacdot (93)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18076,7 +18077,7 @@ GameObject:
   - component: {fileID: 786747753}
   m_Layer: 0
   m_Name: Pacdot (436)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18232,7 +18233,7 @@ GameObject:
   - component: {fileID: 786959906}
   m_Layer: 0
   m_Name: Pacdot (176)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18388,7 +18389,7 @@ GameObject:
   - component: {fileID: 787430612}
   m_Layer: 0
   m_Name: Pacdot (534)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18544,7 +18545,7 @@ GameObject:
   - component: {fileID: 787773621}
   m_Layer: 0
   m_Name: Pacdot (635)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18700,7 +18701,7 @@ GameObject:
   - component: {fileID: 799349599}
   m_Layer: 0
   m_Name: Pacdot (547)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18856,7 +18857,7 @@ GameObject:
   - component: {fileID: 805796916}
   m_Layer: 0
   m_Name: Pacdot (743)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19012,7 +19013,7 @@ GameObject:
   - component: {fileID: 805869989}
   m_Layer: 0
   m_Name: Pacdot (571)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19168,7 +19169,7 @@ GameObject:
   - component: {fileID: 812690345}
   m_Layer: 0
   m_Name: Pacdot (473)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19324,7 +19325,7 @@ GameObject:
   - component: {fileID: 816434607}
   m_Layer: 0
   m_Name: Pacdot (363)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19480,7 +19481,7 @@ GameObject:
   - component: {fileID: 818396667}
   m_Layer: 0
   m_Name: Pacdot (391)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19636,7 +19637,7 @@ GameObject:
   - component: {fileID: 819765156}
   m_Layer: 0
   m_Name: Pacdot (150)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19792,7 +19793,7 @@ GameObject:
   - component: {fileID: 824478360}
   m_Layer: 0
   m_Name: Pacdot (551)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19948,7 +19949,7 @@ GameObject:
   - component: {fileID: 828312442}
   m_Layer: 0
   m_Name: Pacdot (589)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20104,7 +20105,7 @@ GameObject:
   - component: {fileID: 830350996}
   m_Layer: 0
   m_Name: Pacdot (291)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20260,7 +20261,7 @@ GameObject:
   - component: {fileID: 847261634}
   m_Layer: 0
   m_Name: Pacdot (580)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20416,7 +20417,7 @@ GameObject:
   - component: {fileID: 859671867}
   m_Layer: 0
   m_Name: Pacdot (12)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20572,7 +20573,7 @@ GameObject:
   - component: {fileID: 859856594}
   m_Layer: 0
   m_Name: Pacdot (174)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20728,7 +20729,7 @@ GameObject:
   - component: {fileID: 868802910}
   m_Layer: 0
   m_Name: Pacdot (161)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20952,7 +20953,7 @@ GameObject:
   - component: {fileID: 902138045}
   m_Layer: 0
   m_Name: Pacdot (335)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21108,7 +21109,7 @@ GameObject:
   - component: {fileID: 904821229}
   m_Layer: 0
   m_Name: Pacdot (153)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21264,7 +21265,7 @@ GameObject:
   - component: {fileID: 907658163}
   m_Layer: 0
   m_Name: Pacdot (592)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21420,7 +21421,7 @@ GameObject:
   - component: {fileID: 908544239}
   m_Layer: 0
   m_Name: Pacdot (560)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21857,7 +21858,7 @@ GameObject:
   - component: {fileID: 919845558}
   m_Layer: 0
   m_Name: Pacdot (79)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22013,7 +22014,7 @@ GameObject:
   - component: {fileID: 932861961}
   m_Layer: 0
   m_Name: Pacdot (321)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22169,7 +22170,7 @@ GameObject:
   - component: {fileID: 952039651}
   m_Layer: 0
   m_Name: Pacdot (484)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22325,7 +22326,7 @@ GameObject:
   - component: {fileID: 952127913}
   m_Layer: 0
   m_Name: Pacdot (488)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22481,7 +22482,7 @@ GameObject:
   - component: {fileID: 956707280}
   m_Layer: 0
   m_Name: Pacdot (170)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22637,7 +22638,7 @@ GameObject:
   - component: {fileID: 958875472}
   m_Layer: 0
   m_Name: Pacdot (94)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22793,7 +22794,7 @@ GameObject:
   - component: {fileID: 962192500}
   m_Layer: 0
   m_Name: Pacdot (244)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22949,7 +22950,7 @@ GameObject:
   - component: {fileID: 964023129}
   m_Layer: 0
   m_Name: Pacdot (499)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23105,7 +23106,7 @@ GameObject:
   - component: {fileID: 974410657}
   m_Layer: 0
   m_Name: Pacdot (389)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23261,7 +23262,7 @@ GameObject:
   - component: {fileID: 977295025}
   m_Layer: 0
   m_Name: Pacdot (548)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23483,7 +23484,7 @@ GameObject:
   - component: {fileID: 995574949}
   m_Layer: 0
   m_Name: Pacdot (728)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23639,7 +23640,7 @@ GameObject:
   - component: {fileID: 998180361}
   m_Layer: 0
   m_Name: Pacdot (66)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23795,7 +23796,7 @@ GameObject:
   - component: {fileID: 1000579096}
   m_Layer: 0
   m_Name: Pacdot (235)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23951,7 +23952,7 @@ GameObject:
   - component: {fileID: 1021550390}
   m_Layer: 0
   m_Name: Pacdot (103)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24107,7 +24108,7 @@ GameObject:
   - component: {fileID: 1022179635}
   m_Layer: 0
   m_Name: Pacdot (82)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24263,7 +24264,7 @@ GameObject:
   - component: {fileID: 1034825532}
   m_Layer: 0
   m_Name: Pacdot (87)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24419,7 +24420,7 @@ GameObject:
   - component: {fileID: 1037944974}
   m_Layer: 0
   m_Name: Pacdot (320)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24575,7 +24576,7 @@ GameObject:
   - component: {fileID: 1056829261}
   m_Layer: 0
   m_Name: Pacdot (643)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24731,7 +24732,7 @@ GameObject:
   - component: {fileID: 1079834833}
   m_Layer: 0
   m_Name: Pacdot (329)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24887,7 +24888,7 @@ GameObject:
   - component: {fileID: 1081381667}
   m_Layer: 0
   m_Name: Pacdot (556)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25043,7 +25044,7 @@ GameObject:
   - component: {fileID: 1082432844}
   m_Layer: 0
   m_Name: Pacdot (249)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25199,7 +25200,7 @@ GameObject:
   - component: {fileID: 1089556118}
   m_Layer: 0
   m_Name: Pacdot (615)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25355,7 +25356,7 @@ GameObject:
   - component: {fileID: 1096323757}
   m_Layer: 0
   m_Name: Pacdot (156)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25511,7 +25512,7 @@ GameObject:
   - component: {fileID: 1096475171}
   m_Layer: 0
   m_Name: Pacdot (702)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25667,7 +25668,7 @@ GameObject:
   - component: {fileID: 1101221210}
   m_Layer: 0
   m_Name: Pacdot (248)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25823,7 +25824,7 @@ GameObject:
   - component: {fileID: 1102831260}
   m_Layer: 0
   m_Name: Pacdot (193)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25979,7 +25980,7 @@ GameObject:
   - component: {fileID: 1108776256}
   m_Layer: 0
   m_Name: Pacdot (303)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26135,7 +26136,7 @@ GameObject:
   - component: {fileID: 1114997489}
   m_Layer: 0
   m_Name: Pacdot (407)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26291,7 +26292,7 @@ GameObject:
   - component: {fileID: 1117983321}
   m_Layer: 0
   m_Name: Pacdot (364)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26447,7 +26448,7 @@ GameObject:
   - component: {fileID: 1120296868}
   m_Layer: 0
   m_Name: Pacdot (6)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26603,7 +26604,7 @@ GameObject:
   - component: {fileID: 1124911931}
   m_Layer: 0
   m_Name: Pacdot (742)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26759,7 +26760,7 @@ GameObject:
   - component: {fileID: 1130890897}
   m_Layer: 0
   m_Name: Pacdot (598)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26915,7 +26916,7 @@ GameObject:
   - component: {fileID: 1140311996}
   m_Layer: 0
   m_Name: Pacdot (486)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27071,7 +27072,7 @@ GameObject:
   - component: {fileID: 1145579780}
   m_Layer: 0
   m_Name: Pacdot (187)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27227,7 +27228,7 @@ GameObject:
   - component: {fileID: 1159116291}
   m_Layer: 0
   m_Name: Pacdot (102)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27383,7 +27384,7 @@ GameObject:
   - component: {fileID: 1178267722}
   m_Layer: 0
   m_Name: Pacdot (749)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27539,7 +27540,7 @@ GameObject:
   - component: {fileID: 1186380242}
   m_Layer: 0
   m_Name: Pacdot (746)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27695,7 +27696,7 @@ GameObject:
   - component: {fileID: 1186796246}
   m_Layer: 0
   m_Name: Pacdot (4)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27851,7 +27852,7 @@ GameObject:
   - component: {fileID: 1194131394}
   m_Layer: 0
   m_Name: Pacdot (687)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28007,7 +28008,7 @@ GameObject:
   - component: {fileID: 1213105800}
   m_Layer: 0
   m_Name: Pacdot (627)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28163,7 +28164,7 @@ GameObject:
   - component: {fileID: 1220631841}
   m_Layer: 0
   m_Name: Pacdot (722)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28319,7 +28320,7 @@ GameObject:
   - component: {fileID: 1227446753}
   m_Layer: 0
   m_Name: Pacdot (228)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28475,7 +28476,7 @@ GameObject:
   - component: {fileID: 1234482471}
   m_Layer: 0
   m_Name: Pacdot (22)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28631,7 +28632,7 @@ GameObject:
   - component: {fileID: 1241050406}
   m_Layer: 0
   m_Name: Pacdot (733)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28787,7 +28788,7 @@ GameObject:
   - component: {fileID: 1244616410}
   m_Layer: 0
   m_Name: Pacdot (173)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28943,7 +28944,7 @@ GameObject:
   - component: {fileID: 1257875225}
   m_Layer: 0
   m_Name: Pacdot (603)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29099,7 +29100,7 @@ GameObject:
   - component: {fileID: 1263620987}
   m_Layer: 0
   m_Name: Pacdot (147)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29255,7 +29256,7 @@ GameObject:
   - component: {fileID: 1300321048}
   m_Layer: 0
   m_Name: Pacdot (650)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29411,7 +29412,7 @@ GameObject:
   - component: {fileID: 1300975865}
   m_Layer: 0
   m_Name: Pacdot (395)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29567,7 +29568,7 @@ GameObject:
   - component: {fileID: 1307111665}
   m_Layer: 0
   m_Name: Pacdot (40)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29723,7 +29724,7 @@ GameObject:
   - component: {fileID: 1308723556}
   m_Layer: 0
   m_Name: Pacdot (569)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29879,7 +29880,7 @@ GameObject:
   - component: {fileID: 1313665972}
   m_Layer: 0
   m_Name: Pacdot (633)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30035,7 +30036,7 @@ GameObject:
   - component: {fileID: 1314363055}
   m_Layer: 0
   m_Name: Pacdot (86)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30191,7 +30192,7 @@ GameObject:
   - component: {fileID: 1314951833}
   m_Layer: 0
   m_Name: Pacdot (63)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30347,7 +30348,7 @@ GameObject:
   - component: {fileID: 1318669682}
   m_Layer: 0
   m_Name: Pacdot (138)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30503,7 +30504,7 @@ GameObject:
   - component: {fileID: 1318932652}
   m_Layer: 0
   m_Name: Pacdot (239)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30659,7 +30660,7 @@ GameObject:
   - component: {fileID: 1336443753}
   m_Layer: 0
   m_Name: Pacdot (549)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30815,7 +30816,7 @@ GameObject:
   - component: {fileID: 1342287028}
   m_Layer: 0
   m_Name: Pacdot (182)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30971,7 +30972,7 @@ GameObject:
   - component: {fileID: 1344949485}
   m_Layer: 0
   m_Name: Pacdot (326)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31127,7 +31128,7 @@ GameObject:
   - component: {fileID: 1347082850}
   m_Layer: 0
   m_Name: Pacdot (474)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31283,7 +31284,7 @@ GameObject:
   - component: {fileID: 1347292850}
   m_Layer: 0
   m_Name: Pacdot (433)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31439,7 +31440,7 @@ GameObject:
   - component: {fileID: 1350566861}
   m_Layer: 0
   m_Name: Pacdot (208)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31595,7 +31596,7 @@ GameObject:
   - component: {fileID: 1353235226}
   m_Layer: 0
   m_Name: Pacdot (57)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31751,7 +31752,7 @@ GameObject:
   - component: {fileID: 1363093256}
   m_Layer: 0
   m_Name: Pacdot (52)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31907,7 +31908,7 @@ GameObject:
   - component: {fileID: 1364595870}
   m_Layer: 0
   m_Name: Pacdot (487)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32063,7 +32064,7 @@ GameObject:
   - component: {fileID: 1364920443}
   m_Layer: 0
   m_Name: Pacdot (618)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32219,7 +32220,7 @@ GameObject:
   - component: {fileID: 1374729609}
   m_Layer: 0
   m_Name: Pacdot (690)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32375,7 +32376,7 @@ GameObject:
   - component: {fileID: 1375368688}
   m_Layer: 0
   m_Name: Pacdot (675)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32531,7 +32532,7 @@ GameObject:
   - component: {fileID: 1375812994}
   m_Layer: 0
   m_Name: Pacdot (243)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32687,7 +32688,7 @@ GameObject:
   - component: {fileID: 1376602835}
   m_Layer: 0
   m_Name: Pacdot (469)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32878,7 +32879,7 @@ GameObject:
   - component: {fileID: 1386243897}
   m_Layer: 0
   m_Name: Pacdot (106)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33034,7 +33035,7 @@ GameObject:
   - component: {fileID: 1387140243}
   m_Layer: 0
   m_Name: Pacdot (2)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33190,7 +33191,7 @@ GameObject:
   - component: {fileID: 1405569512}
   m_Layer: 0
   m_Name: Pacdot (25)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33346,7 +33347,7 @@ GameObject:
   - component: {fileID: 1406290371}
   m_Layer: 0
   m_Name: Pacdot (732)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33502,7 +33503,7 @@ GameObject:
   - component: {fileID: 1407475677}
   m_Layer: 0
   m_Name: Pacdot (213)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33658,7 +33659,7 @@ GameObject:
   - component: {fileID: 1410593534}
   m_Layer: 0
   m_Name: Pacdot (468)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33814,7 +33815,7 @@ GameObject:
   - component: {fileID: 1416452458}
   m_Layer: 0
   m_Name: Pacdot (737)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33970,7 +33971,7 @@ GameObject:
   - component: {fileID: 1428832484}
   m_Layer: 0
   m_Name: Pacdot (1)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34111,6 +34112,53 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d67ee571adfb67429a752f3c8ac3332, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1428914254
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1428914256}
+  - component: {fileID: 1428914255}
+  m_Layer: 0
+  m_Name: 'DotCounter '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1428914255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1428914254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1a36d13ec95f74b99ea30f570ff3b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dotCountThreshold: 200
+  textComponent: {fileID: 1831700521}
+  loadSceneName: win game
+--- !u!4 &1428914256
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1428914254}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 230, y: 190.82019, z: -0.027873851}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1431601458
 GameObject:
   m_ObjectHideFlags: 0
@@ -34314,7 +34362,7 @@ GameObject:
   - component: {fileID: 1431826681}
   m_Layer: 0
   m_Name: Pacdot (747)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34470,7 +34518,7 @@ GameObject:
   - component: {fileID: 1433121846}
   m_Layer: 0
   m_Name: Pacdot (268)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34626,7 +34674,7 @@ GameObject:
   - component: {fileID: 1437342664}
   m_Layer: 0
   m_Name: Pacdot (550)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34782,7 +34830,7 @@ GameObject:
   - component: {fileID: 1444260964}
   m_Layer: 0
   m_Name: Pacdot (157)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34938,7 +34986,7 @@ GameObject:
   - component: {fileID: 1444408606}
   m_Layer: 0
   m_Name: Pacdot (493)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35094,7 +35142,7 @@ GameObject:
   - component: {fileID: 1450383520}
   m_Layer: 0
   m_Name: Pacdot (424)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35250,7 +35298,7 @@ GameObject:
   - component: {fileID: 1456905308}
   m_Layer: 0
   m_Name: Pacdot (647)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35406,7 +35454,7 @@ GameObject:
   - component: {fileID: 1461705122}
   m_Layer: 0
   m_Name: Pacdot (745)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35562,7 +35610,7 @@ GameObject:
   - component: {fileID: 1476535256}
   m_Layer: 0
   m_Name: Pacdot (648)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35718,7 +35766,7 @@ GameObject:
   - component: {fileID: 1477284085}
   m_Layer: 0
   m_Name: Pacdot (46)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35874,7 +35922,7 @@ GameObject:
   - component: {fileID: 1481477489}
   m_Layer: 0
   m_Name: Pacdot (639)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36030,7 +36078,7 @@ GameObject:
   - component: {fileID: 1485756846}
   m_Layer: 0
   m_Name: Pacdot (253)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36186,7 +36234,7 @@ GameObject:
   - component: {fileID: 1486823253}
   m_Layer: 0
   m_Name: Pacdot (415)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36342,7 +36390,7 @@ GameObject:
   - component: {fileID: 1488693690}
   m_Layer: 0
   m_Name: Pacdot (207)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36498,7 +36546,7 @@ GameObject:
   - component: {fileID: 1491387933}
   m_Layer: 0
   m_Name: Pacdot (447)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36654,7 +36702,7 @@ GameObject:
   - component: {fileID: 1493772246}
   m_Layer: 0
   m_Name: Pacdot (277)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36810,7 +36858,7 @@ GameObject:
   - component: {fileID: 1496177050}
   m_Layer: 0
   m_Name: Pacdot (483)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36966,7 +37014,7 @@ GameObject:
   - component: {fileID: 1503835561}
   m_Layer: 0
   m_Name: Pacdot (26)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37122,7 +37170,7 @@ GameObject:
   - component: {fileID: 1505726361}
   m_Layer: 0
   m_Name: Pacdot (696)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37278,7 +37326,7 @@ GameObject:
   - component: {fileID: 1514008542}
   m_Layer: 0
   m_Name: Pacdot (744)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37434,7 +37482,7 @@ GameObject:
   - component: {fileID: 1514113397}
   m_Layer: 0
   m_Name: Pacdot (313)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37590,7 +37638,7 @@ GameObject:
   - component: {fileID: 1521072488}
   m_Layer: 0
   m_Name: Pacdot (99)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37746,7 +37794,7 @@ GameObject:
   - component: {fileID: 1544289113}
   m_Layer: 0
   m_Name: Pacdot (132)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37902,7 +37950,7 @@ GameObject:
   - component: {fileID: 1554746588}
   m_Layer: 0
   m_Name: Pacdot (644)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38058,7 +38106,7 @@ GameObject:
   - component: {fileID: 1559314755}
   m_Layer: 0
   m_Name: Pacdot (566)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38214,7 +38262,7 @@ GameObject:
   - component: {fileID: 1574850792}
   m_Layer: 0
   m_Name: Pacdot (257)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38370,7 +38418,7 @@ GameObject:
   - component: {fileID: 1582017641}
   m_Layer: 0
   m_Name: Pacdot (95)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38526,7 +38574,7 @@ GameObject:
   - component: {fileID: 1582807503}
   m_Layer: 0
   m_Name: Pacdot (251)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38682,7 +38730,7 @@ GameObject:
   - component: {fileID: 1583126477}
   m_Layer: 0
   m_Name: Pacdot (496)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39026,7 +39074,7 @@ GameObject:
   - component: {fileID: 1602242654}
   m_Layer: 0
   m_Name: Pacdot (738)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39182,7 +39230,7 @@ GameObject:
   - component: {fileID: 1605570538}
   m_Layer: 0
   m_Name: Pacdot (242)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39338,7 +39386,7 @@ GameObject:
   - component: {fileID: 1611208048}
   m_Layer: 0
   m_Name: Pacdot (561)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39494,7 +39542,7 @@ GameObject:
   - component: {fileID: 1619206644}
   m_Layer: 0
   m_Name: Pacdot (112)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39650,7 +39698,7 @@ GameObject:
   - component: {fileID: 1621002365}
   m_Layer: 0
   m_Name: Pacdot (202)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39806,7 +39854,7 @@ GameObject:
   - component: {fileID: 1621943787}
   m_Layer: 0
   m_Name: Pacdot (5)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39962,7 +40010,7 @@ GameObject:
   - component: {fileID: 1628798809}
   m_Layer: 0
   m_Name: Pacdot (165)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40246,7 +40294,7 @@ GameObject:
   - component: {fileID: 1633176388}
   m_Layer: 0
   m_Name: Pacdot (265)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40402,7 +40450,7 @@ GameObject:
   - component: {fileID: 1636517474}
   m_Layer: 0
   m_Name: Pacdot (467)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40558,7 +40606,7 @@ GameObject:
   - component: {fileID: 1638788854}
   m_Layer: 0
   m_Name: Pacdot (655)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40714,7 +40762,7 @@ GameObject:
   - component: {fileID: 1649134742}
   m_Layer: 0
   m_Name: Pacdot (245)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40870,7 +40918,7 @@ GameObject:
   - component: {fileID: 1663072226}
   m_Layer: 0
   m_Name: Pacdot (241)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41026,7 +41074,7 @@ GameObject:
   - component: {fileID: 1663224074}
   m_Layer: 0
   m_Name: Pacdot (78)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41182,7 +41230,7 @@ GameObject:
   - component: {fileID: 1664804723}
   m_Layer: 0
   m_Name: Pacdot (83)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41338,7 +41386,7 @@ GameObject:
   - component: {fileID: 1667679649}
   m_Layer: 0
   m_Name: Pacdot (450)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41494,7 +41542,7 @@ GameObject:
   - component: {fileID: 1668985448}
   m_Layer: 0
   m_Name: Pacdot (661)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41650,7 +41698,7 @@ GameObject:
   - component: {fileID: 1674690448}
   m_Layer: 0
   m_Name: Pacdot (121)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41806,7 +41854,7 @@ GameObject:
   - component: {fileID: 1678909952}
   m_Layer: 0
   m_Name: Pacdot (554)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41962,7 +42010,7 @@ GameObject:
   - component: {fileID: 1682322610}
   m_Layer: 0
   m_Name: Pacdot (557)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42118,7 +42166,7 @@ GameObject:
   - component: {fileID: 1683028799}
   m_Layer: 0
   m_Name: Pacdot (166)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42274,7 +42322,7 @@ GameObject:
   - component: {fileID: 1686788723}
   m_Layer: 0
   m_Name: Pacdot (478)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42430,7 +42478,7 @@ GameObject:
   - component: {fileID: 1690627288}
   m_Layer: 0
   m_Name: Pacdot (306)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42586,7 +42634,7 @@ GameObject:
   - component: {fileID: 1699215703}
   m_Layer: 0
   m_Name: Pacdot (37)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42742,7 +42790,7 @@ GameObject:
   - component: {fileID: 1703979335}
   m_Layer: 0
   m_Name: Pacdot (477)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42898,7 +42946,7 @@ GameObject:
   - component: {fileID: 1707135559}
   m_Layer: 0
   m_Name: Pacdot (525)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43054,7 +43102,7 @@ GameObject:
   - component: {fileID: 1713007195}
   m_Layer: 0
   m_Name: Pacdot (262)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43210,7 +43258,7 @@ GameObject:
   - component: {fileID: 1722133963}
   m_Layer: 0
   m_Name: Pacdot (475)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43366,7 +43414,7 @@ GameObject:
   - component: {fileID: 1723419049}
   m_Layer: 0
   m_Name: Pacdot (175)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43522,7 +43570,7 @@ GameObject:
   - component: {fileID: 1734296317}
   m_Layer: 0
   m_Name: Pacdot (294)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43678,7 +43726,7 @@ GameObject:
   - component: {fileID: 1747173854}
   m_Layer: 0
   m_Name: Pacdot (256)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43834,7 +43882,7 @@ GameObject:
   - component: {fileID: 1753038029}
   m_Layer: 0
   m_Name: Pacdot (481)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43990,7 +44038,7 @@ GameObject:
   - component: {fileID: 1753111564}
   m_Layer: 0
   m_Name: Pacdot (555)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44146,7 +44194,7 @@ GameObject:
   - component: {fileID: 1761883073}
   m_Layer: 0
   m_Name: Pacdot (181)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44302,7 +44350,7 @@ GameObject:
   - component: {fileID: 1763027694}
   m_Layer: 0
   m_Name: Pacdot (164)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44458,7 +44506,7 @@ GameObject:
   - component: {fileID: 1776853709}
   m_Layer: 0
   m_Name: Pacdot (237)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44614,7 +44662,7 @@ GameObject:
   - component: {fileID: 1794101530}
   m_Layer: 0
   m_Name: Pacdot (567)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44958,7 +45006,7 @@ GameObject:
   - component: {fileID: 1794521573}
   m_Layer: 0
   m_Name: Pacdot (739)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45114,7 +45162,7 @@ GameObject:
   - component: {fileID: 1795109284}
   m_Layer: 0
   m_Name: Pacdot (750)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45270,7 +45318,7 @@ GameObject:
   - component: {fileID: 1824802747}
   m_Layer: 0
   m_Name: Pacdot (642)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45411,6 +45459,86 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d67ee571adfb67429a752f3c8ac3332, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1831700520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1831700523}
+  - component: {fileID: 1831700522}
+  - component: {fileID: 1831700521}
+  m_Layer: 5
+  m_Name: Text (Legacy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1831700521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1831700520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: New Text
+--- !u!222 &1831700522
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1831700520}
+  m_CullTransparentMesh: 1
+--- !u!224 &1831700523
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1831700520}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 664914539}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 170, y: -238}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1838955263
 GameObject:
   m_ObjectHideFlags: 0
@@ -45426,7 +45554,7 @@ GameObject:
   - component: {fileID: 1838955267}
   m_Layer: 0
   m_Name: Pacdot (31)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45582,7 +45710,7 @@ GameObject:
   - component: {fileID: 1852394154}
   m_Layer: 0
   m_Name: Pacdot (250)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45738,7 +45866,7 @@ GameObject:
   - component: {fileID: 1859995133}
   m_Layer: 0
   m_Name: Pacdot (649)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45894,7 +46022,7 @@ GameObject:
   - component: {fileID: 1865212912}
   m_Layer: 0
   m_Name: Pacdot (222)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46050,7 +46178,7 @@ GameObject:
   - component: {fileID: 1870758957}
   m_Layer: 0
   m_Name: Pacdot (13)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46206,7 +46334,7 @@ GameObject:
   - component: {fileID: 1875274160}
   m_Layer: 0
   m_Name: Pacdot (398)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46362,7 +46490,7 @@ GameObject:
   - component: {fileID: 1893977365}
   m_Layer: 0
   m_Name: Pacdot (421)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46518,7 +46646,7 @@ GameObject:
   - component: {fileID: 1894328280}
   m_Layer: 0
   m_Name: Pacdot (522)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46674,7 +46802,7 @@ GameObject:
   - component: {fileID: 1895175785}
   m_Layer: 0
   m_Name: Pacdot (81)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46830,7 +46958,7 @@ GameObject:
   - component: {fileID: 1896587622}
   m_Layer: 0
   m_Name: Pacdot (670)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46986,7 +47114,7 @@ GameObject:
   - component: {fileID: 1897756083}
   m_Layer: 0
   m_Name: Pacdot (736)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47142,7 +47270,7 @@ GameObject:
   - component: {fileID: 1907374149}
   m_Layer: 0
   m_Name: Pacdot (255)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47298,7 +47426,7 @@ GameObject:
   - component: {fileID: 1923079723}
   m_Layer: 0
   m_Name: Pacdot (288)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47454,7 +47582,7 @@ GameObject:
   - component: {fileID: 1925191449}
   m_Layer: 0
   m_Name: Pacdot (381)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47610,7 +47738,7 @@ GameObject:
   - component: {fileID: 1941571777}
   m_Layer: 0
   m_Name: Pacdot (664)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47766,7 +47894,7 @@ GameObject:
   - component: {fileID: 1943095548}
   m_Layer: 0
   m_Name: Pacdot (179)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47922,7 +48050,7 @@ GameObject:
   - component: {fileID: 1943958905}
   m_Layer: 0
   m_Name: Pacdot (346)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48078,7 +48206,7 @@ GameObject:
   - component: {fileID: 1954155928}
   m_Layer: 0
   m_Name: Pacdot (562)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48234,7 +48362,7 @@ GameObject:
   - component: {fileID: 1955989415}
   m_Layer: 0
   m_Name: Pacdot (730)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48390,7 +48518,7 @@ GameObject:
   - component: {fileID: 1985249055}
   m_Layer: 0
   m_Name: Pacdot (180)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48546,7 +48674,7 @@ GameObject:
   - component: {fileID: 1988100830}
   m_Layer: 0
   m_Name: Pacdot (17)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48702,7 +48830,7 @@ GameObject:
   - component: {fileID: 1992156917}
   m_Layer: 0
   m_Name: Pacdot (259)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48858,7 +48986,7 @@ GameObject:
   - component: {fileID: 2002795717}
   m_Layer: 0
   m_Name: Pacdot (734)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49014,7 +49142,7 @@ GameObject:
   - component: {fileID: 2004418261}
   m_Layer: 0
   m_Name: Pacdot (254)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49170,7 +49298,7 @@ GameObject:
   - component: {fileID: 2010013495}
   m_Layer: 0
   m_Name: Pacdot (158)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49326,7 +49454,7 @@ GameObject:
   - component: {fileID: 2015745597}
   m_Layer: 0
   m_Name: Pacdot (713)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49482,7 +49610,7 @@ GameObject:
   - component: {fileID: 2019063058}
   m_Layer: 0
   m_Name: Pacdot (15)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49638,7 +49766,7 @@ GameObject:
   - component: {fileID: 2021885874}
   m_Layer: 0
   m_Name: Pacdot (413)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49794,7 +49922,7 @@ GameObject:
   - component: {fileID: 2021934485}
   m_Layer: 0
   m_Name: Pacdot (416)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49950,7 +50078,7 @@ GameObject:
   - component: {fileID: 2027769239}
   m_Layer: 0
   m_Name: Pacdot (358)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50106,7 +50234,7 @@ GameObject:
   - component: {fileID: 2028205507}
   m_Layer: 0
   m_Name: Pacdot (514)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50262,7 +50390,7 @@ GameObject:
   - component: {fileID: 2034541726}
   m_Layer: 0
   m_Name: Pacdot (16)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50418,7 +50546,7 @@ GameObject:
   - component: {fileID: 2034575688}
   m_Layer: 0
   m_Name: Pacdot (572)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50574,7 +50702,7 @@ GameObject:
   - component: {fileID: 2044131314}
   m_Layer: 0
   m_Name: Pacdot (716)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50730,7 +50858,7 @@ GameObject:
   - component: {fileID: 2045626089}
   m_Layer: 0
   m_Name: Pacdot (162)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50886,7 +51014,7 @@ GameObject:
   - component: {fileID: 2047440370}
   m_Layer: 0
   m_Name: Pacdot (729)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51042,7 +51170,7 @@ GameObject:
   - component: {fileID: 2052992887}
   m_Layer: 0
   m_Name: Pacdot (634)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51198,7 +51326,7 @@ GameObject:
   - component: {fileID: 2056499983}
   m_Layer: 0
   m_Name: Pacdot (100)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51354,7 +51482,7 @@ GameObject:
   - component: {fileID: 2072412037}
   m_Layer: 0
   m_Name: Pacdot (626)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51510,7 +51638,7 @@ GameObject:
   - component: {fileID: 2072756425}
   m_Layer: 0
   m_Name: Pacdot (393)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51666,7 +51794,7 @@ GameObject:
   - component: {fileID: 2073208365}
   m_Layer: 0
   m_Name: Pacdot (109)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51822,7 +51950,7 @@ GameObject:
   - component: {fileID: 2075124505}
   m_Layer: 0
   m_Name: Pacdot
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51978,7 +52106,7 @@ GameObject:
   - component: {fileID: 2080094638}
   m_Layer: 0
   m_Name: Pacdot (441)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52134,7 +52262,7 @@ GameObject:
   - component: {fileID: 2090051965}
   m_Layer: 0
   m_Name: Pacdot (18)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52290,7 +52418,7 @@ GameObject:
   - component: {fileID: 2094776953}
   m_Layer: 0
   m_Name: Pacdot (9)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52446,7 +52574,7 @@ GameObject:
   - component: {fileID: 2105707680}
   m_Layer: 0
   m_Name: Pacdot (314)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52602,7 +52730,7 @@ GameObject:
   - component: {fileID: 2130646580}
   m_Layer: 0
   m_Name: Pacdot (258)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52758,7 +52886,7 @@ GameObject:
   - component: {fileID: 2145727775}
   m_Layer: 0
   m_Name: Pacdot (384)
-  m_TagString: Untagged
+  m_TagString: dot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

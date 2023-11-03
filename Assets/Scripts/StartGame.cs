@@ -10,4 +10,12 @@ public class StartGame : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
+    public void Startlevel1()
+    {
+        SceneManager.LoadScene("level 1");
+    }
+    public void Startlevel2()
+    {
+        SceneManager.LoadScene("level 2");
+    }
 }
