@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Blinky
+  m_Controller: {fileID: 9100000, guid: af5b7c221699f3943aa29b6f740b64c8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9428af1a083d6ff4c9f7a0512ad505fc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 45e6503f8d6a0e14ebdc73e6cd127476, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d28e80dacc89db244b05e07c7ed177d8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1a511e2f8ffaa9e4aba0f6f9f7b05a5d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 59305af7ee4f097418653133d52deca8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 06b7c49452169884584e211e5f99c7cd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a1bf8099b8cea524a96e846d587c8c18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1b55b96e09b99b24a8d5576a41371e7b, type: 2}
