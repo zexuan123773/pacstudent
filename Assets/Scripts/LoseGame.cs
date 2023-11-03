@@ -8,6 +8,6 @@ public class LoseGame : MonoBehaviour
     
     public void RestartPlay()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("start menu");
     }
 }
